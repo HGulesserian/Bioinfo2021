@@ -4,3 +4,6 @@ Example repository for the course "Bioinformatik für Tier- und Pflanzenwissensc
 Adding some example text
 
 Hi my name is Harout Gulesserian
+
+
+https://github.com/dukecct/CBRG
